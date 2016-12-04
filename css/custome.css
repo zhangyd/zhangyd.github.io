@@ -1,0 +1,19 @@
+#home .text-col h1 {
+	font-size: 3em !important;
+}
+
+#home .text-col p {
+	line-height: 1.2em;
+}
+
+@media (max-width: 1200px) {
+	#home .text-col h1 {
+		font-size: 2.5em !important;
+	}
+}
+
+@media (max-width: 990px) {
+	#home .text-col h1 {
+		font-size: 1.9em !important;
+	}
+}
